@@ -1,1 +1,0 @@
-{"version":3,"sources":["../es6/02.js"],"names":[],"mappings":"AAAA;;AACA,IAAI,KAAI,QAAQ,gBAAR,CAAJ;AACJ,IAAI,OAAO,QAAQ,SAAR,CAAP","file":"02.js","sourcesContent":["\"use strict\"\r\nvar br =require(\"babel-register\");\r\nvar test = require(\"./01.js\");"]}
